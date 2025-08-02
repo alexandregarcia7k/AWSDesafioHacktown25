@@ -1,0 +1,14 @@
+{
+  "name": "q-music-cli",
+  "version": "1.0.0",
+  "description": "CLI para recomendações musicais usando Amazon Q",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["music", "amazon-q", "cli"],
+  "author": "",
+  "license": "MIT"
+  
+}
